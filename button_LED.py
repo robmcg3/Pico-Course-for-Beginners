@@ -1,9 +1,11 @@
 from machine import Pin
 import time
 
+# updated for RP2040 zero
+
 # set up pin 15 as an input with a pull-down resistor
 button = Pin(14, Pin.IN, Pin.PULL_DOWN)
-# set up pin 16 connected to the LED as an output
+# set up pin 15 connected to the LED as an output
 led = Pin(15, Pin.OUT)
 
 

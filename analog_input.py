@@ -1,5 +1,6 @@
 from machine import Pin, ADC # we need to import ADC to use analog inputs
 import time
+# updated for RP2040 zero
 
 # set up pin 26 as an analog input
 pot = ADC(Pin(26)) 

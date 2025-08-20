@@ -1,7 +1,8 @@
 from machine import Pin
 import time
+# updated for RP2040 zero
 
-# set up pin 15 as an input to read our button's state
+# set up pin 14 as an input to read our button's state
 button = Pin(14, Pin.IN, Pin.PULL_DOWN)
 
 # intialising a timer variable we will use to keep track of time

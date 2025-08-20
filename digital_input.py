@@ -1,7 +1,9 @@
 from machine import Pin
 import time
 
-# set up pin 15 as an input with a pull-down resistor
+# updated for RP2040 zero
+
+# set up pin 14 as an input with a pull-down resistor
 button = Pin(14, Pin.IN, Pin.PULL_DOWN) 
 
 
