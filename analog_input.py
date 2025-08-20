@@ -10,7 +10,7 @@ conversion_factor = 3.3 / 65535
 
 while True:
     # read analog input and store it in a variable called pot_voltage
-    pot_voltage = pot.read_u16()
+    pot_voltage = pot.read_u16()*conversion_factor
   
     # print pot_voltage
     print(pot_voltage)
