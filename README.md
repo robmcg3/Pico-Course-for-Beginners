@@ -5,4 +5,4 @@ following the youtube [pi pico tutorial](https://www.youtube.com/watch?v=Ic4ExTu
 Code is copied from the [course page](https://core-electronics.com.au/courses/raspberry-pi-pico-workshop/#1.1)
 
 ## RP Zero Pin out
-![RP2040 Zero pin out](https://github.com/robmcg3/Pico-Course-for-Beginners/blob/main/PicoZero_Pinout.jpg)
+![RP2040 Zero pin out](PicoZero_Pinout.jpg)
