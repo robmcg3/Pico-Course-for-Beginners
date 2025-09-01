@@ -7,7 +7,8 @@ Code is copied from the [course page](https://core-electronics.com.au/courses/ra
 - [x] download [install pico zero](https://picozero.readthedocs.io/en/latest/gettingstarted.html)
 
 
-Aug 31, 2025
+
+## Aug 31, 2025
 Added code from Freenove
 - DHT11_Freenove_example_Code.py
 - Freenove_DHT.py
