@@ -6,11 +6,14 @@ Code is copied from the [course page](https://core-electronics.com.au/courses/ra
 
 - [x] download [install pico zero](https://picozero.readthedocs.io/en/latest/gettingstarted.html)
 
-## RP Zero Pin out
-![RP2040 Zero pin out](PicoZero_Pinout.jpg)
 
-
+Aug 31, 2025
 Added code from Freenove
 - DHT11_Freenove_example_Code.py
 - Freenove_DHT.py
 - setup.py
+
+
+## RP Zero Pin out
+![RP2040 Zero pin out](PicoZero_Pinout.jpg)
+
